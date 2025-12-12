@@ -4,6 +4,9 @@
   box-sizing: border-box;
   font-family: Poppins, Pretendard Variable;
 }
+html{
+  scroll-behavior: smooth;
+}
 header{
   position: relative;
   width: 100%;
