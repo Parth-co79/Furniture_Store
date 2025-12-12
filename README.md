@@ -16,6 +16,7 @@ A clean, elegant, and fully responsive furniture store website featuring product
 💡 Reusable components & organized structure
 
 📁 Project Structure
+
 Furniture_Store/
 │
 ├── index.html              # Homepage layout
@@ -60,18 +61,13 @@ Download or clone the repository:
 
 git clone https://github.com/Parth-co79/Furniture_Store.git
 
-
 Open the project folder:
 
 cd Furniture_Store
 
-
 Run the website by opening:
 
 index.html
-
-
-in any modern browser.
 
 🛏️ Pages Included
 
@@ -97,11 +93,10 @@ Minimalistic and professional color theme
 Easy-to-maintain file structure
 
 👥 Contributors
-
-Parth
+Himanshu Parmarthi
+Parth Kadukar
+Sushant Gupta
 HPS Furniture Store – Owner / Developer
-
-(You can add more names if needed.)
 
 🚀 Future Improvements
 
@@ -131,10 +126,3 @@ Font Awesome / Icons
 Free stock images for furniture display
 
 Inspiration from modern furniture brands
-
-If you want, I can also:
-
-✅ Create a Markdown version
-✅ Add badges (HTML, CSS, JS, GitHub Pages)
-✅ Write a short GitHub description
-Just tell me!
