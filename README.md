@@ -21,7 +21,7 @@ Built using **HTML, CSS, and JavaScript** with a focus on simplicity, usability,
 ---
 
 ## 📁 Project Structure
-
+```
 Furniture_Store/
 │
 ├── index.html # Homepage layout
@@ -47,6 +47,7 @@ Furniture_Store/
 │ └── decoration/
 │
 └── README.md # Project documentation
+```
 
 ---
 
